@@ -1,2 +1,2 @@
 # Manual-Testing-on-HDFC-Bank-
-This is my first project in which I created manual test cases on HDFC banking mobile application. 
+This is my demo project. In this I have prepared manual test cases on HDFC Mobile Banking application wherein I covered installation, login functionality, Easy technology menu, Dashboard functionality, Transaction functionality, Various payment cards functionality, Various bill payments and recharge. I have tested for whether they are ready for real time use or not by providing a status to each of the functionalities.
